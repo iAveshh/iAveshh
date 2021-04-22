@@ -1,5 +1,7 @@
 ### Hi there, I'm Avesh Mishra - aka iavesh 👋
 
+
+[![Github](https://img.shields.io/github/followers/iAveshh?label=Follow&style=social)](https://github.com/iAveshh)
 <p align="center">
   <a href="https://www.linkedin.com/in/avesh-mishra-47a016169/"><img src="https://img.shields.io/badge/LinkedIn-Avesh Mishra-blue?style=flat-square&logo=linkedin" alt="LinkedIn" href="https://www.linkedin.com/in/avesh-mishra-47a016169/"></a>
   <a href="https://twitter.com/iaveshh/"><img src="https://img.shields.io/twitter/follow/iaveshh?style=flat-square&logo=twitter" alt="Twitter" href="https://twitter.com/iaveshh/"></a>
