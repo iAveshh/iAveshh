@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/avesh-mishra-47a016169/"><img src="https://img.shields.io/badge/LinkedIn-Avesh Mishra-blue?style=flat-square&logo=linkedin" alt="LinkedIn" href="https://www.linkedin.com/in/avesh-mishra-47a016169/"></a>
-  <a href="https://twitter.com/iaveshh/"><img src="https://img.shields.io/twitter/follow/Avesh Mishra?style=flat-square&logo=twitter" alt="Twitter" href="https://twitter.com/iaveshh/"></a>
+  <a href="https://twitter.com/iaveshh/"><img src="https://img.shields.io/twitter/follow/iaveshh?style=flat-square&logo=twitter" alt="Twitter" href="https://twitter.com/iaveshh/"></a>
   <a href="https://github.com/iAveshh"><img src="https://img.shields.io/badge/GitHub-iAveshh-lightgrey?style=flat-square&logo=github" alt="GitHub" href="https://github.com/iAveshh"></a>
   <a href="https://iavesh.cloud"><img src="https://img.shields.io/badge/Website-iavesh.cloud-red?style=flat-square" alt="Website" href="https://iavesh.cloud"></a>
   <a href="https://medium.com/@aveshmishra97"><img src="https://img.shields.io/badge/Medium-Avesh Mishra-green?style=flat-square&logo=medium" alt="Medium" href="https://medium.com/@aveshmishra97"></a>
