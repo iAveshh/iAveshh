@@ -1,7 +1,7 @@
 ### Hi there, I'm Avesh Mishra - aka iavesh 👋
 
 <p align="center">
-  <a href="mailto:aveshmishra97@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+
   <a href="https://www.linkedin.com/in/avesh-mishra-47a016169/"><img src="https://img.shields.io/badge/LinkedIn-Avesh Mishra-blue?style=flat-square&logo=linkedin" alt="LinkedIn" href="https://www.linkedin.com/in/avesh-mishra-47a016169/"></a>
   <a href="https://twitter.com/iaveshh/"><img src="https://img.shields.io/twitter/follow/iaveshh?style=flat-square&logo=twitter" alt="Twitter" href="https://twitter.com/iaveshh/"></a>
   <a href="https://github.com/iAveshh"><img src="https://img.shields.io/badge/GitHub-iAveshh-lightgrey?style=flat-square&logo=github" alt="GitHub" href="https://github.com/iAveshh"></a>
@@ -28,6 +28,7 @@
 [<img align="left" alt="iavesh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Avesh Mishra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Avesh Mishra | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Avesh Mishra | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
 
 <br />
 
@@ -74,3 +75,4 @@
 [twitter]: https://twitter.com/iaveshh
 [instagram]: https://instagram.com/iaveshh
 [linkedin]: https://www.linkedin.com/in/avesh-mishra-47a016169/
+[Gmail]: https://www.gmail.com/aveshmishra97
