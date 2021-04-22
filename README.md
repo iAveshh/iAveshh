@@ -75,4 +75,4 @@
 [twitter]: https://twitter.com/iaveshh
 [instagram]: https://instagram.com/iaveshh
 [linkedin]: https://www.linkedin.com/in/avesh-mishra-47a016169/
-[Gmail]: https://www.gmail.com/aveshmishra97
+[Gmail]: mailto:aveshmishra97@gmail.com
