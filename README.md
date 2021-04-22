@@ -1,12 +1,20 @@
-### Hi there, I'm Avesh - aka [iavesh][website] 👋
+### Hi there, I'm Avesh - aka [iavesh] 👋
 
-[![Website](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https%3A%2F%2Flinkedin.com/in/avesh-mishra-47a016169/)](https://www.linkedin.com/in/avesh-mishra-47a016169/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/avesh-mishra-47a016169/"><img src="https://img.shields.io/badge/LinkedIn-navendup-blue?style=flat-square&logo=linkedin" alt="LinkedIn" href="https://www.linkedin.com/in/avesh-mishra-47a016169/"></a>
+  <a href="https://twitter.com/iaveshh"><img src="https://img.shields.io/twitter/follow/sudo_navendu?style=flat-square&logo=twitter" alt="Twitter" href="https://twitter.com/iaveshh"></a>
+  <a href="https://www.github.com/navendu-pottekkat/"><img src="https://img.shields.io/badge/GitHub-navendu--pottekkat-lightgrey?style=flat-square&logo=github" alt="GitHub" href="https://www.github.com/navendu-pottekkat/"></a>
+  <a href="https://navendu.me"><img src="https://img.shields.io/badge/Website-navendu.me-red?style=flat-square" alt="Website" href="https://navendu.me"></a>
+  <a href="https://medium.com/@navendupottekkat"><img src="https://img.shields.io/badge/Medium-navendupottekkat-green?style=flat-square&logo=medium" alt="Medium" href="https://medium.com/@navendupottekkat"></a>
+  </br>
+</p>
+
 
 ## I'm a Beginner in Data Science!!
 
-- 🔭 Curious about the world of Data and AI, for most part of the day, I sit and Imagine the Future.
+- 🔭 Curious about the world of Data and AI, for most part of the day I sit and imagine future.
 - 🌍 I am Fasinated by the Universal forces driving us, be it Blackholes, be it Divine energy, EVERYTHING!
-- 🥅 2021 Goals: Be a better person, Learn NLP and Computer Vision 🤖
+- 🥅 2021 Goals: Be a better person, Learn DeepLearning, NLP and Computer Vision 🤖
 - ⚡ Fun fact: I am a LOONER! 
 
 ### Spotify Playing 🎧
