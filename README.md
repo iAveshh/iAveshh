@@ -1,5 +1,6 @@
 ### Hi there, I'm Avesh Mishra - aka iavesh 👋
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/avesh-mishra-47a016169/"><img src="https://img.shields.io/badge/LinkedIn-Avesh Mishra-blue?style=flat-square&logo=linkedin" alt="LinkedIn" href="https://www.linkedin.com/in/avesh-mishra-47a016169/"></a>
   <a href="https://twitter.com/iaveshh/"><img src="https://img.shields.io/twitter/follow/iaveshh?style=flat-square&logo=twitter" alt="Twitter" href="https://twitter.com/iaveshh/"></a>
@@ -10,12 +11,14 @@
 </p>
 
 
+
 ## I'm a Beginner in Data Science!!
 
 - 🔭 Curious about the world of Data and AI, for most part of the day I sit and imagine future.
 - 🌍 I am Fasinated by the Universal forces driving us, be it Blackholes, be it Divine energy, EVERYTHING!
 - 🥅 2021 Goals: Be a better person, Learn DeepLearning, NLP and Computer Vision 🤖
 - ⚡ Fun fact: I am a LOONER! 
+
 
 ### Connect with me:
 
@@ -26,6 +29,7 @@
 [<img align="left" alt="Avesh Mishra | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
 
 <br />
+
 
 ### Languages and Tools:
 
