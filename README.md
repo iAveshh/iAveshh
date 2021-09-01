@@ -46,10 +46,18 @@
 ### 📺 Latest Projects and Contribution
 
 <!-- PROJECT:START -->
-- [Tic Tac Toe | Python](https://github.com/iAveshh/tic-tac-toe-using-python)
+- [Multiple Linear Regression | Python | Machine Learning](https://github.com/iAveshh/IIIT-Bangalore-ML-AI-Course-work/tree/main/3.%20Bike%20Sharing%20MLR%20Assignment)
 <!-- PROJECT:END -->
 
-➡️ [more Projects and Contributions...](https://iavesh.cloud/Projects)
+<!-- PROJECT:START -->
+- [Lending Club Case Study EDA | Python](https://github.com/iAveshh/IIIT-Bangalore-ML-AI-Course-work/tree/main/2.%20Lending%20Club%20Case%20study)
+<!-- PROJECT:END -->
+
+<!-- PROJECT:START -->
+- [Spark Funds Investment EDA | Python](https://github.com/iAveshh/IIIT-Bangalore-ML-AI-Course-work/tree/main/1.%20Investment%20Assignment)
+<!-- PROJECT:END -->
+
+➡️ [more Projects and Contributions...](https://iavesh.cloud/)
 
 ---
 
