@@ -67,7 +67,7 @@
 - [Financial Literacy for Employee's is Beneficial for Business](https://medium.com/@aveshmishra97/providing-financial-literacy-for-employees-is-good-for-business-382957f7c29a)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://iavesh.cloud/Blogs)
+➡️ [more blog posts...](https://iavesh.cloud/)
 
 ---
 
