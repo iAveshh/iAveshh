@@ -46,6 +46,10 @@
 ### 📺 Latest Projects and Contribution
 
 <!-- PROJECT:START -->
+- [Label-Studio-Spacy-2.0](https://github.com/iAveshh/Label-Studio-Spacy-2.0)
+<!-- PROJECT:END -->
+
+<!-- PROJECT:START -->
 - [Multiple Linear Regression | Python | Machine Learning](https://github.com/iAveshh/IIIT-Bangalore-ML-AI-Course-work/tree/main/3.%20Bike%20Sharing%20MLR%20Assignment)
 <!-- PROJECT:END -->
 
