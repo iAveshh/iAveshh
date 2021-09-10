@@ -17,29 +17,6 @@
 - 🔭 Curious about the world of Data and AI, for most part of the day I sit and imagine future.
 - 🌍 I am Fasinated by the Universal forces driving us, be it Blackholes, be it Divine energy, EVERYTHING!
 - 🥅 2021 Goals: Be a better person, Learn DeepLearning, NLP and Computer Vision 🤖
-- ⚡ Fun fact: I am a LOONER! 
-
-
-### Connect with me:
-
-[<img align="left" alt="iavesh.cloud" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="iavesh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Avesh Mishra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Avesh Mishra | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Avesh Mishra | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
-
-<br />
-
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<br />
-<br />
 
 ---
 
@@ -73,14 +50,7 @@
 
 ➡️ [more blog posts...](https://iavesh.cloud/)
 
----
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Avesh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=iaveshh&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://iavesh.cloud
 [twitter]: https://twitter.com/iaveshh
