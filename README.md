@@ -16,30 +16,30 @@ Here are some of the projects I've contributed to:
 ## 🛠️ Technologies & Tools
 
 - **Programming Languages:**  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png" alt="R" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40"/>
 
 - **AI Frameworks & Tools:**  
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black)  
-  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
-  ![LangChain](https://img.shields.io/badge/LangChain-FF5733?style=for-the-badge)  
-  ![GPT-3](https://img.shields.io/badge/GPT--3-008080?style=for-the-badge)  
-  ![BERT](https://img.shields.io/badge/BERT-FFB6C1?style=for-the-badge)  
-  ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-4B0082?style=for-the-badge)
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" alt="PyTorch" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" alt="TensorFlow" width="40" height="40"/>  
+  <img src="https://avatars.githubusercontent.com/u/25770424?s=200&v=4" alt="Hugging Face" width="40" height="40"/>  
+  <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="OpenAI" width="40" height="40"/>  
+  <img src="https://avatars.githubusercontent.com/u/106038251?s=200&v=4" alt="LangChain" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/gpt-3/gpt-3.png" alt="GPT-3" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/bert/bert.png" alt="BERT" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/stable-diffusion/stable-diffusion.png" alt="Stable Diffusion" width="40" height="40"/>
 
 - **Cloud Platforms:**  
-  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
-  ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" alt="Azure" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" alt="GCP" width="40" height="40"/>
 
 - **Other Tools:**  
-  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-  ![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)  
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-  ![LangChain](https://img.shields.io/badge/LangChain-FF5733?style=for-the-badge)
+  <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="Streamlit" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" width="40" height="40"/>  
+  <img src="https://avatars.githubusercontent.com/u/22632046?s=200&v=4" alt="Weights & Biases" width="40" height="40"/>  
+  <img src="https://avatars.githubusercontent.com/u/52083362?s=200&v=4" alt="FastAPI" width="40" height="40"/>  
+  <img src="https://avatars.githubusercontent.com/u/106038251?s=200&v=4" alt="LangChain" width="40" height="40"/>
 
 ---
 
