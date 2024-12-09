@@ -1,24 +1,25 @@
 # Hi there, I'm Avesh! 👋
 
-Welcome to my GitHub profile! I'm a passionate **AI and Data Science Specialist** with over 6 years of experience. My work focuses on building cutting-edge solutions in **Generative AI**, **Computer Vision**, **NLP**, and more. 🚀 
+Welcome to my GitHub profile! I'm a dedicated **AI Researcher and Scholar** with over 6 years of experience in advancing the frontiers of **Generative AI**, **Machine Learning**, **Computer Vision**, and **Natural Language Processing**. My work includes contributions to open-source **Large Language Models (LLMs)** and related generative AI technologies, driven by a passion for innovation and a commitment to scholarly excellence. 🚀 
 
 ---
 
 ## 🛠️ Technologies & Tools
 - **Programming Languages:** Python, R, SQL, JavaScript
-- **AI Frameworks & Tools:** PyTorch, TensorFlow, Hugging Face, OpenCV, YOLO
+- **AI Frameworks & Tools:** PyTorch, TensorFlow, Hugging Face, OpenAI, LangChain, GPT-3, BERT, Stable Diffusion
 - **Cloud Platforms:** Azure, AWS, GCP
 - **Databases:** MySQL, PostgreSQL, MongoDB
-- **Other Tools:** Streamlit, Docker, Weights & Biases, FastAPI, Flask
+- **Other Tools:** Streamlit, Docker, Weights & Biases, FastAPI, LangChain
 
 ---
 
 ## 🌟 Featured Projects
-Here are some of the exciting projects I've worked on:
-1. **PDF Data Extraction Tool** - An intelligent system to extract and validate data from complex PDFs.
-2. **Sign Language Translator** - A real-time web app for bridging communication between deaf and non-deaf individuals.
-3. **Automated Image Tagging** - A machine learning pipeline to classify and assess conditions in construction images.
-4. **Weld Quality Assessment** - Object detection system for identifying weld defects and ensuring quality.
+Here are some of the groundbreaking projects I've contributed to:
+1. **AI-driven Research Paper Summarizer** - An advanced tool leveraging NLP to distill key insights from academic papers.
+2. **Generative Art Creator** - A creative application of GANs to produce unique pieces of digital art.
+3. **Autonomous Drone Navigation** - A deep learning model for real-time obstacle detection and path planning.
+4. **AI-enhanced Language Translation** - A state-of-the-art translation system that adapts to context and nuance.
+5. **Open-Source LLM Contributions** - Actively contributing to the development and fine-tuning of LLMs like GPT-3 and BERT for diverse applications.
 
 ---
 
@@ -37,6 +38,14 @@ Here are some of the exciting projects I've worked on:
 
 ---
 
+## 🔍 Research Interests
+My research interests include:
+- Development and fine-tuning of **Large Language Models (LLMs)**
+- Exploration of **Generative AI** techniques for creative and practical applications
+- Integration of AI solutions in real-world scenarios to enhance human capabilities
+
+---
+
 ## 🤝 Connect With Me
 - 🌐 [LinkedIn](https://linkedin.com/in/avesh)  
 - 💼 [Portfolio](https://iaveshh.github.io/)  
@@ -44,4 +53,4 @@ Here are some of the exciting projects I've worked on:
 
 ---
 
-⭐️ *Feel free to explore my repositories and reach out for collaborations!*
+⭐️ *Explore my repositories and feel free to reach out for collaborations or scholarly discussions!*
