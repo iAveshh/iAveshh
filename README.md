@@ -36,8 +36,8 @@ Here are some of the projects I've contributed to:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="70" height="70" style="margin: 10px;"/>
   <img src="https://global.discourse-cdn.com/business7/uploads/streamlit/original/2X/8/8cb5b6c0e1fe4e4ebee9d576d06132d858ad2486.png" alt="Streamlit" width="70" height="70" style="margin: 10px;"/>
   <img src="https://wandb.me/logo-notext.png" alt="Weights & Biases" width="70" height="70" style="margin: 10px;"/>
-  <img src="https://python.langchain.com/img/langchain.png" alt="LangChain" width="70" height="70" style="margin: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/1/1f/LowRes_80dpi_Mistral_AI_Logo.png" alt="Mistral AI" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" alt="LangChain" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://res.cloudinary.com/apideck/image/upload/v1702333454/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/1701285827271_q0bcc6.jpg" alt="Mistral AI" width="70" height="70" style="margin: 10px;"/>
 </p>
 </div>
 
