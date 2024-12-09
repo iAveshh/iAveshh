@@ -25,19 +25,19 @@ Here are some of the projects I've contributed to:
 </p>
 
 <p align="center">
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="70" height="70" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="70" height="70" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="70" height="70" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="70" height="70" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/ggerganov/llama.cpp/master/logo.png" alt="LLM" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://ollama.com/public/ollama.png" alt="Ollama" width="70" height="70" style="margin: 10px;"/>
 </p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="70" height="70" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/streamlit/streamlit/develop/app/static/img/streamlit-mark-color.svg" alt="Streamlit" width="70" height="70" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-dots-logo.svg" alt="Weights & Biases" width="70" height="70" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_logo.svg" alt="LangChain" width="70" height="70" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://global.discourse-cdn.com/business7/uploads/streamlit/original/2X/8/8cb5b6c0e1fe4e4ebee9d576d06132d858ad2486.png" alt="Streamlit" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://wandb.me/logo-notext.png" alt="Weights & Biases" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://python.langchain.com/img/langchain.png" alt="LangChain" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://mistral.ai/images/logo-dark.svg" alt="Mistral AI" width="70" height="70" style="margin: 10px;"/>
 </p>
 </div>
 
