@@ -15,31 +15,45 @@ Here are some of the projects I've contributed to:
 
 ## 🛠️ Technologies & Tools
 
-- **Programming Languages:**  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="60" height="60" style="margin-right:30px;"/>  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png" alt="R" width="60" height="60" style="margin-right:30px;"/>  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="60" height="60" style="margin-right:30px;"/>
+<div align="center">
 
-- **AI Frameworks & Tools:**  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" alt="PyTorch" width="60" height="60" style="margin-right:30px;"/>  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" alt="TensorFlow" width="60" height="60" style="margin-right:30px;"/>  
-  <img src="https://avatars.githubusercontent.com/u/25770424?s=200&v=4" alt="Hugging Face" width="60" height="60" style="margin-right:30px;"/>  
-  <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="OpenAI" width="60" height="60" style="margin-right:30px;"/>  
-  <img src="https://avatars.githubusercontent.com/u/106038251?s=200&v=4" alt="LangChain" width="60" height="60" style="margin-right:30px;"/>  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/gpt-3/gpt-3.png" alt="GPT-3" width="60" height="60" style="margin-right:30px;"/>  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/bert/bert.png" alt="BERT" width="60" height="60" style="margin-right:30px;"/>  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/stable-diffusion/stable-diffusion.png" alt="Stable Diffusion" width="60" height="60" style="margin-right:30px;"/>
+### Programming Languages
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png" alt="R" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="70" height="70" style="margin: 10px;"/>
+</p>
 
-- **Cloud Platforms:**  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" alt="Azure" width="60" height="60" style="margin-right:30px;"/>  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" alt="GCP" width="60" height="60" style="margin-right:30px;"/>
+### AI Frameworks & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" alt="PyTorch" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" alt="TensorFlow" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://avatars.githubusercontent.com/u/25770424?s=200&v=4" alt="Hugging Face" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="OpenAI" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://avatars.githubusercontent.com/u/106038251?s=200&v=4" alt="LangChain" width="70" height="70" style="margin: 10px;"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/gpt-3/gpt-3.png" alt="GPT-3" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/bert/bert.png" alt="BERT" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/stable-diffusion/stable-diffusion.png" alt="Stable Diffusion" width="70" height="70" style="margin: 10px;"/>
+</p>
 
-- **Other Tools:**  
-  <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="Streamlit" width="60" height="60" style="margin-right:30px;"/>  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" width="60" height="60" style="margin-right:30px;"/>  
-  <img src="https://avatars.githubusercontent.com/u/22632046?s=200&v=4" alt="Weights & Biases" width="60" height="60" style="margin-right:30px;"/>  
-  <img src="https://avatars.githubusercontent.com/u/52083362?s=200&v=4" alt="FastAPI" width="60" height="60" style="margin-right:30px;"/>  
-  <img src="https://avatars.githubusercontent.com/u/106038251?s=200&v=4" alt="LangChain" width="60" height="60" style="margin-right:30px;"/>
+### Cloud Platforms
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" alt="Azure" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" alt="GCP" width="70" height="70" style="margin: 10px;"/>
+</p>
+
+### Other Tools
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="Streamlit" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://avatars.githubusercontent.com/u/22632046?s=200&v=4" alt="Weights & Biases" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://avatars.githubusercontent.com/u/52083362?s=200&v=4" alt="FastAPI" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://avatars.githubusercontent.com/u/106038251?s=200&v=4" alt="LangChain" width="70" height="70" style="margin: 10px;"/>
+</p>
+
+</div>
 
 ---
 
