@@ -28,28 +28,10 @@ Here are some of the groundbreaking projects I've contributed to:
 
 ---
 
-## 📈 Recent Contributions
-[![Avesh's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=iAveshh&theme=minimal)](https://github.com/iAveshh)
-
----
-
-## 🔥 My Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAveshh&layout=compact&theme=default)
-
----
-
-## 🔍 Research Interests
-My research interests include:
-- Development and fine-tuning of **Large Language Models (LLMs)**
-- Exploration of **Generative AI** techniques for creative and practical applications
-- Integration of AI solutions in real-world scenarios to enhance human capabilities
-
----
-
 ## 🤝 Connect With Me
-- 🌐 [LinkedIn](https://linkedin.com/in/avesh)  
-- 💼 [Portfolio](https://iaveshh.github.io/)  
-- 📧 Email: avesh@example.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/iavesh/)  
+- 💼 [Portfolio](https://github.com/iAveshh)  
+- 📧 Email: imishravesh@gmail.com 
 
 ---
 
