@@ -1,6 +1,6 @@
 # Hi there, I'm Avesh! 👋
 
-A dedicated **AI practitioner** with over 6 years of experience in advancing the frontiers of **Generative AI**, **Machine Learning**, **Computer Vision**, and **Natural Language Processing**. My work revolves around **Large Language Models (LLMs) Computer Vision, Speech & NLP (Everything AI😉)** and related technologies, driven by a passion for innovation and a commitment to scholarly excellence. 🚀 Currently, I am working as a Process Manager at eClerx for the Data Science & AI team, where I lead initiatives to integrate AI solutions into business processes.
+An experienced **AI practitioner** with over 6 years of expertise in Data Science & Artificial Intelligence. My work focuses on advancing **Gen AI, Computer Vision, Speech Processing, and NLP**, underpinned by a passion for innovation and a dedication to academic rigor. 🚀 Currently serving as a **Process Manager at eClerx**, I lead the Data Science & AI team, driving the integration of cutting-edge AI solutions to enhance business processes and deliver impactful results.
 
 ---
 
