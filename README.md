@@ -34,8 +34,8 @@ Here are some of the projects I've contributed to:
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="70" height="70" style="margin: 10px;"/>
-  <img src="https://global.discourse-cdn.com/business7/uploads/streamlit/original/2X/8/8cb5b6c0e1fe4e4ebee9d576d06132d858ad2486.png" alt="Streamlit" width="70" height="70" style="margin: 10px;"/>
-  <img src="https://wandb.me/logo-notext.png" alt="Weights & Biases" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="Streamlit" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://cdn.prod.website-files.com/65264f6bf54e751c3a776db1/66d869126dc9da65a47f4a58_wandb.png" alt="Weights & Biases" width="70" height="70" style="margin: 10px;"/>
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" alt="LangChain" width="70" height="70" style="margin: 10px;"/>
   <img src="https://res.cloudinary.com/apideck/image/upload/v1702333454/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/1701285827271_q0bcc6.jpg" alt="Mistral AI" width="70" height="70" style="margin: 10px;"/>
 </p>
