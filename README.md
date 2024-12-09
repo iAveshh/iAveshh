@@ -1,25 +1,26 @@
 # Hi there, I'm Avesh! 👋
 
-Welcome to my GitHub profile! I'm a dedicated **AI Researcher and Scholar** with over 6 years of experience in advancing the frontiers of **Generative AI**, **Machine Learning**, **Computer Vision**, and **Natural Language Processing**. My work includes contributions to open-source **Large Language Models (LLMs)** and related generative AI technologies, driven by a passion for innovation and a commitment to scholarly excellence. 🚀 
+Welcome! I'm a dedicated **AI practitioner** with over 6 years of experience in advancing the frontiers of **Generative AI**, **Machine Learning**, **Computer Vision**, and **Natural Language Processing**. My work revolves around **Large Language Models (LLMs) Computer Vision, Speech & NLP (Everything AI😉)** and related technologies, driven by a passion for innovation and a commitment to scholarly excellence. 🚀 
 
 ---
 
 ## 🛠️ Technologies & Tools
-- **Programming Languages:** Python, R, SQL, JavaScript
+- **Programming Languages:** Python, R, JavaScript
 - **AI Frameworks & Tools:** PyTorch, TensorFlow, Hugging Face, OpenAI, LangChain, GPT-3, BERT, Stable Diffusion
-- **Cloud Platforms:** Azure, AWS, GCP
+- **Cloud Platforms:** Azure, GCP
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Other Tools:** Streamlit, Docker, Weights & Biases, FastAPI, LangChain
 
 ---
 
 ## 🌟 Featured Projects
-Here are some of the groundbreaking projects I've contributed to:
+Here are some of the projects I've contributed to:
 1. **AI-driven Research Paper Summarizer** - An advanced tool leveraging NLP to distill key insights from academic papers.
 2. **Generative Art Creator** - A creative application of GANs to produce unique pieces of digital art.
 3. **Autonomous Drone Navigation** - A deep learning model for real-time obstacle detection and path planning.
 4. **AI-enhanced Language Translation** - A state-of-the-art translation system that adapts to context and nuance.
 5. **Open-Source LLM Contributions** - Actively contributing to the development and fine-tuning of LLMs like GPT-3 and BERT for diverse applications.
+6. **DocTagger** - DocTagger is a Python-based application designed for extracting and tagging data from PDF documents. The application utilizes PyMuPDF (fitz) for PDF processing, tkinter for the graphical user interface, and ttkbootstrap for modern UI components and SpaCy for Automated labeling. It allows users to upload PDFs, extract text and metadata, and apply custom tags to the extracted data.
 
 ---
 
