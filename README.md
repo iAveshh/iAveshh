@@ -15,12 +15,10 @@ Welcome! I'm a dedicated **AI practitioner** with over 6 years of experience in 
 
 ## 🌟 Featured Projects
 Here are some of the projects I've contributed to:
-1. **AI-driven Research Paper Summarizer** - An advanced tool leveraging NLP to distill key insights from academic papers.
+1. **Auto-Segment** - A feature-rich Streamlit-based application for advanced object detection and segmentation using YOLOv8. This tool allows users to upload images, detect objects, visualize results, and export data in various formats (JSON, XML, COCO).
 2. **Generative Art Creator** - A creative application of GANs to produce unique pieces of digital art.
-3. **Autonomous Drone Navigation** - A deep learning model for real-time obstacle detection and path planning.
-4. **AI-enhanced Language Translation** - A state-of-the-art translation system that adapts to context and nuance.
-5. **Open-Source LLM Contributions** - Actively contributing to the development and fine-tuning of LLMs like GPT-3 and BERT for diverse applications.
-6. **DocTagger** - DocTagger is a Python-based application designed for extracting and tagging data from PDF documents. The application utilizes PyMuPDF (fitz) for PDF processing, tkinter for the graphical user interface, and ttkbootstrap for modern UI components and SpaCy for Automated labeling. It allows users to upload PDFs, extract text and metadata, and apply custom tags to the extracted data.
+3. **AI-enhanced Language Translation** - A state-of-the-art translation system that adapts to context and nuance.
+4. **DocTagger** - DocTagger is a Python-based application designed for extracting and tagging data from PDF documents. The application utilizes PyMuPDF (fitz) for PDF processing, tkinter for the graphical user interface, and ttkbootstrap for modern UI components and SpaCy for Automated labeling. It allows users to upload PDFs, extract text and metadata, and apply custom tags to the extracted data.
 
 ---
 
