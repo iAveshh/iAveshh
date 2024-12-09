@@ -16,43 +16,29 @@ Here are some of the projects I've contributed to:
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-
-### Programming Languages
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="70" height="70" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png" alt="R" width="70" height="70" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="70" height="70" style="margin: 10px;"/>
 </p>
 
-### AI Frameworks & Tools
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" alt="PyTorch" width="70" height="70" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" alt="TensorFlow" width="70" height="70" style="margin: 10px;"/>
-  <img src="https://avatars.githubusercontent.com/u/25770424?s=200&v=4" alt="Hugging Face" width="70" height="70" style="margin: 10px;"/>
-  <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="OpenAI" width="70" height="70" style="margin: 10px;"/>
-  <img src="https://avatars.githubusercontent.com/u/106038251?s=200&v=4" alt="LangChain" width="70" height="70" style="margin: 10px;"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/gpt-3/gpt-3.png" alt="GPT-3" width="70" height="70" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/bert/bert.png" alt="BERT" width="70" height="70" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/stable-diffusion/stable-diffusion.png" alt="Stable Diffusion" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/ggerganov/llama.cpp/master/logo.png" alt="LLM" width="70" height="70" style="margin: 10px;"/>
 </p>
 
-### Cloud Platforms
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" alt="Azure" width="70" height="70" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" alt="GCP" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/streamlit/streamlit/develop/app/static/img/streamlit-mark-color.svg" alt="Streamlit" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-dots-logo.svg" alt="Weights & Biases" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_logo.svg" alt="LangChain" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="70" height="70" style="margin: 10px;"/>
 </p>
-
-### Other Tools
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="Streamlit" width="70" height="70" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" width="70" height="70" style="margin: 10px;"/>
-  <img src="https://avatars.githubusercontent.com/u/22632046?s=200&v=4" alt="Weights & Biases" width="70" height="70" style="margin: 10px;"/>
-  <img src="https://avatars.githubusercontent.com/u/52083362?s=200&v=4" alt="FastAPI" width="70" height="70" style="margin: 10px;"/>
-  <img src="https://avatars.githubusercontent.com/u/106038251?s=200&v=4" alt="LangChain" width="70" height="70" style="margin: 10px;"/>
-</p>
-
 </div>
 
 ---
